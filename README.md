@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 I am Amrendra Singh
+### 🔭 I’m a doctoral student in the marketing area at ISB.
+### 🌱 I’m currently learning Data Analytics.
+### Reach me at www.linkedin.com/in/amrendrasingh25
 
 <!--
 **amrendrasingh2/amrendrasingh2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
